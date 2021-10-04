@@ -1,5 +1,5 @@
-| Termes  | Définition  |  |   |   |
-|---|---|---|---|---|
+| Termes  | Définition  |
+|---|---|
 | Association CultureDiffusion  | C'est une association   |
 | Bibliothèque numérique |
 | Gestion décentralisée  | Chacun a une partie de l'application  |
