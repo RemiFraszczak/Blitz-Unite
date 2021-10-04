@@ -9,9 +9,9 @@
 | Sous-droit  |   |   |   |   |
 | L'application  |   |   |   |   |
 | Index  |   |   |   |   |
-| Format JSON  |   |   |   |   |
-| Répertoire  |   |   |   |   |
-| Oeuvre chiffrée |   |   |   |   |
+| Format JSON  | Format léger d'échange de données contenant les informations sur l'oeuvre |   |   |   |
+| Répertoire  | Dossier parent qui contient toutes les sous rubriques  |   |   |   |
+| Oeuvre chiffrée | Chaque oeuvre est accécible grâce à une clé (ex: 1029120) ayant une date de validité  |   |   |   |
 | Ajout |   |   |   |   |
 | Supression  |   |   |   |   |
 | Fond_commun  | Caisse commune d'un groupe |   |   |   |
