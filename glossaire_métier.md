@@ -19,8 +19,7 @@
 | Modération  | Consiste à accepter, déplacer vers une rubrique plus appropriée ou refuser intégralement ou partiellement la publication d'une information ou d'un commentaire  |
 | Licence d'exploitation  | Est un acte par lequel le propriétaire d'un livre donne à un tiers la possibilité de vendre un de ses produits  |
 | Rubrique | Catégorie dans laquelle on classe quelque chose  |
-| Oeuvre protégée  | protègent les droits des auteurs sur toutes
-les œuvres de l’esprit quels qu’en soit le genre, la forme d’expression, le mérite ou la destination  |
+| Oeuvre protégée  | protègent les droits des auteurs sur toutes les œuvres de l’esprit quels qu’en soit le genre, la forme d’expression, le mérite ou la destination  |
 | Membre  | Groupe qui fait librement partie d'une union  |
 | Numériser | Coder sous forme numérique  |
 | Bibliothécaires  | Personne préposée à une bibliothèque  |
