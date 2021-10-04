@@ -1,4 +1,4 @@
-| Termes  | Définition  |
+| Terme  | Définition  |
 |---|---|
 | Association CultureDiffusion  | C'est une association   |
 | Bibliothèque numérique |
