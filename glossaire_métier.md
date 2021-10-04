@@ -2,7 +2,7 @@
 |---|---|---|---|---|
 | Association CultureDiffusion  | C'est une association   |   |   |   |
 | Bibliothèque numérique |   |   |   |   |
-| Gestion décentralisée  |   |   |   |   |
+| Gestion décentralisée  | Chacun a une partie de l'application  |   |   |   |
 | les oeuvres |   |   |   |   |
 | Emprunt |   |   |   |   |
 | Domaine publique  |   |   |   |   |
@@ -14,8 +14,8 @@
 | Oeuvre chiffrée |   |   |   |   |
 | Ajout |   |   |   |   |
 | Supression  |   |   |   |   |
-| Fond_commun  |   |   |   |   |
-| Séquestre  |   |   |   |   |
+| Fond_commun  | Caisse commune d'un groupe |   |   |   |
+| Séquestre  |  |   |   |   |
 | Modération  |   |   |   |   |
 | Licence d'exploitation  |   |   |   |   |
 | Rubrique |   |   |   |   |
