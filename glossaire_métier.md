@@ -1,6 +1,6 @@
 | Termes  | Définition  |  |   |   |
 |---|---|---|---|---|
-| Association CultureDiffusion  |   |   |   |   |
+| Association CultureDiffusion  | C'est une association   |   |   |   |
 | Bibliothèque numérique |   |   |   |   |
 | Gestion décentralisée  |   |   |   |   |
 | les oeuvres |   |   |   |   |
