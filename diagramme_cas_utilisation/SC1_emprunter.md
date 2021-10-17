@@ -1,8 +1,8 @@
-Titre : Louer un livre  
-Description : L'utilisateur pourra louer une oeuvre sous droit parmi ceux qui lui sont proposés  
-Acteurs : Utilisateur  
+**Titre** : Louer un livre  
+**Description** : L'utilisateur pourra louer une oeuvre sous droit parmi ceux qui lui sont proposés  
+**Acteurs** : Utilisateur  
 
-Etapes: 
+**Etapes**: 
 
     1. L'utilisateur se connecte sur la bibliothèque numérique
     2. L'utilisateur clique sur le répertoire "séquestre"
