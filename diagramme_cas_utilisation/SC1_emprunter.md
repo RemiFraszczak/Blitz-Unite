@@ -1,6 +1,6 @@
-Titre : Louer un livre
-Description : L'utilisateur pourra louer une oeuvre sous droit parmi ceux qui lui sont proposés
-Acteurs : Utilisateur
+Titre : Louer un livre  
+Description : L'utilisateur pourra louer une oeuvre sous droit parmi ceux qui lui sont proposés  
+Acteurs : Utilisateur  
 
 Etapes: 
 
