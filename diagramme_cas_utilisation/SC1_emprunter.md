@@ -12,5 +12,6 @@
     6. La bibliothèque vérifie si l'oeuvre est sous droit
     7. La bibliothèque vérifie si l'oeuvre a plus de 3 copies.
     8. Sinon, la bibliothèque met une date de validité à l'oeuvre
-    9. L'utilisateur a accès à son oeuvre dans la rubrique "emprunts" 10. À la fin de la date de validité, l'oeuvre est supprimée du répertoire du membre
+    9. L'utilisateur a accès à son oeuvre dans la rubrique "emprunts" 
+    10. À la fin de la date de validité, l'oeuvre est supprimée du répertoire du membre
 
